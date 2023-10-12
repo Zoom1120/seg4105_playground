@@ -15,7 +15,7 @@ Solution
 Having a website for a hotel booking business is immensely beneficial as it provides a centralized, easily accessible platform for travelers to explore and book accommodations. A well-designed website showcases a hotel's features, amenities, and room options. It enables potential guests to compare prices, read reviews, and view images, thereby making informed decisions.
 
 Breadboarding:
-
+![image](https://github.com/Zoom1120/seg4105_playground/blob/main/Deliverable%201/Assets/bb)
  
 No-goes (nice-to-haves)
 
