@@ -1,3 +1,6 @@
+SEG 4105
+Anurag Taak
+300073742
 ## Chapter 7 - 9 Summary
 
 Summary of Shape-Up (Chapter 7-9)
